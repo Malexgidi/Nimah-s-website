@@ -75,7 +75,7 @@ export default function Home() {
       <section className="bg-pink-50 text-center py-20 px-6">
         <div className="max-w-3xl mx-auto">
         <img
-            src="/images/Nimahlogo.png"
+            src="/Nimahlogo.jpg"
             alt="Nimah Logo"
             className="mx-auto w-32 mb-6 opacity-90 drop-shadow-md"
          />
