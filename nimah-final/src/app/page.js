@@ -75,10 +75,10 @@ export default function Home() {
       <section className="bg-pink-50 text-center py-20 px-6">
         <div className="max-w-3xl mx-auto">
         <img
-  src="/Nimahlogo.png"
-  alt="Nimah Logo"
-  className="mx-auto w-32 mb-6 opacity-90 drop-shadow-md"
-/>
+            src="/images/Nimahlogo.png"
+            alt="Nimah Logo"
+            className="mx-auto w-32 mb-6 opacity-90 drop-shadow-md"
+         />
           <h1 className="text-4xl font-bold mb-4">Delicious Cakes & Cuisine Delivered Fast</h1>
           <p className="text-lg mb-6">
             Enjoy premium baked goods and local meals—freshly made, quickly delivered.
